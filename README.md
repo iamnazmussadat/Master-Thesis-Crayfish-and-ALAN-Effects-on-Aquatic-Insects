@@ -11,8 +11,8 @@ Using a controlled outdoor mesocosm setup, the study tracks how these stressors 
 
 ## 📂 Repository Contents
 * **`Master_Thesis_Nazmus_Sadat_218203123.pdf`**: The complete, final peer-reviewed master's thesis containing the full methodology, literature review, comprehensive statistical analysis, and ecological discussions.
-* *(Optional)* `data/`: Raw experimental datasets monitoring insect emergence counts, environmental parameters, and biomass measurements.
-* *(Optional)* `scripts/`: R scripts containing the statistical models, ANOVA/Tukey HSD tests, and data visualization code used to generate thesis figures.
+* *(Monitoring)* `data/`: Raw experimental datasets monitoring insect emergence counts, environmental parameters, and biomass measurements.
+* *(statistical)* `scripts/`: R scripts containing the statistical models, ANOVA/Tukey HSD tests, and data visualization code used to generate thesis figures.
 
 ## 🔬 Experimental Methodology & Parameters
 * **System Setup:** Controlled aquatic mesocosms mimicking natural stream/pond conditions.
